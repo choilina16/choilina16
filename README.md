@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @choilina16 !
 - 👀 I’m interested in golf ⛳️, gardening 🪴, & movies 🍿 
-- - 🌱 I’m currently learning to be a full-stack developer ! 
+- 🌱 I’m currently learning to be a full-stack developer ! 
 - 📫 How to reach me ... email me @ choilina16@gmail.com 
 
 <!---
