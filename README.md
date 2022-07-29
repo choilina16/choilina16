@@ -56,6 +56,7 @@
   <samp>
     <a href="https://github.com/choilina16">github</a> .
     <a href="https://www.linkedin.com/in/lina-choi-0bb7547b/">linkedin</a> .
+    <a href="https://lina-react-portfolio.herokuapp.com/">resume</a> .
     <a href="https://docs.google.com/document/d/1PC_1iTvL3C_jE6gpAVp4rAQBamB57s_Dp6MdYQHnuKw/edit?usp=sharing">resume</a>
 
   </samp>
