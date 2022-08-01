@@ -3,6 +3,17 @@
 - 📫 How to reach me ... email me @ choilina16@gmail.com
 - 👀 I’m interested in golfing ⛳️, gardening 🪴, & watching movies 🍿 
 
+<p align="center">
+  <!-- Monospace Font -->
+  <samp>
+    <a href="https://github.com/choilina16">github</a> .
+    <a href="https://www.linkedin.com/in/lina-choi-0bb7547b/">linkedin</a> .
+    <a href="https://lina-react-portfolio.herokuapp.com/">portfolio</a> .
+    <a href="https://docs.google.com/document/d/1PC_1iTvL3C_jE6gpAVp4rAQBamB57s_Dp6MdYQHnuKw/edit?usp=sharing">resume</a>
+
+  </samp>
+</p>
+
 <br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=choilina16&show_icons=true&theme=gotham" alt="choilina16" />
@@ -51,13 +62,4 @@
 
 <br>
 
-<p align="center">
-  <!-- Monospace Font -->
-  <samp>
-    <a href="https://github.com/choilina16">github</a> .
-    <a href="https://www.linkedin.com/in/lina-choi-0bb7547b/">linkedin</a> .
-    <a href="https://lina-react-portfolio.herokuapp.com/">portfolio</a> .
-    <a href="https://docs.google.com/document/d/1PC_1iTvL3C_jE6gpAVp4rAQBamB57s_Dp6MdYQHnuKw/edit?usp=sharing">resume</a>
 
-  </samp>
-</p>
